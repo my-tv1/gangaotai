@@ -1,0 +1,228 @@
+💰央视付费频道,#genre#
+
+📡卫视频道,#genre#
+甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+
+☘️广东频道,#genre#
+广东体育,https://mg.345564.xyz/proxy.php?url=https://cdn2.163189.xyz/live/gdty/stream.m3u8
+
+☘️浙江频道,#genre#
+萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+
+☘️北京频道,#genre#
+
+☘️上海频道,#genre#
+
+☘️重庆频道,#genre#
+
+☘️江苏频道,#genre#
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+
+☘️辽宁频道,#genre#
+大连综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
+大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
+大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?p?zliaond
+
+☘️湖南频道,#genre#
+
+☘️湖北频道,#genre#
+
+☘️广西频道,#genre#
+
+☘️天津频道,#genre#
+
+☘️四川频道,#genre#
+
+☘️陕西频道,#genre#
+
+☘️福建频道,#genre#
+
+☘️河南频道,#genre#
+
+☘️河北频道,#genre#
+邯郸科技教育,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+
+☘️贵州频道,#genre#
+
+☘️甘肃频道,#genre#
+
+☘️新疆频道,#genre#
+
+☘️山东频道,#genre#
+
+☘️山西频道,#genre#
+
+☘️安徽频道,#genre#
+
+☘️吉林频道,#genre#
+
+☘️内蒙古频道,#genre#
+
+☘️云南频道,#genre#
+
+☘️黑龙江频道,#genre#
+
+🌊港·澳·台,#genre#
+翡翠台,https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fct/stream.m3u8
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=HFib76ySpbU
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+J2,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00c
+
+🌊港·澳·台·外全,#genre#
+*HOY Infotainment,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a004
+ABC 16 Wilkes Barre PA (WNEP) (1080p),https://mg.345564.xyz/proxy.php?url=https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8
+ABC 8 Dallas TX (WFAA) (1080p),https://mg.345564.xyz/proxy.php?url=https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
+ABC News,https://mg.345564.xyz/proxy.php?url=https://smart.pendy.dpdns.org/youtube.php?id=-mvUkiILTqI
+ABC News,https://mg.345564.xyz/proxy.php?url=https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+Action Hollywood Movies,https://mg.345564.xyz/proxy.php?url=https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+Africa News (EU),https://mg.345564.xyz/proxy.php?url=https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Al Jazeera English,https://mg.345564.xyz/proxy.php?url=https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+Animax(HK),https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+Auto Allstars (EU),https://mg.345564.xyz/proxy.php?url=https://extremeinternational-autoallstars-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Beautiful Planet (EU),https://mg.345564.xyz/proxy.php?url=https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Best TV ever (EU),https://mg.345564.xyz/proxy.php?url=https://bec-besttvever-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Bloomberg TV,https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+Bloomberg TV (EU),https://mg.345564.xyz/proxy.php?url=https://bloomberg-bloombergtv-3-eu.xiaomi.wurl.tv/playlist.m3u8
+Bloomberg TV Asia Live Event,https://mg.345564.xyz/proxy.php?url=https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+Bloomberg TV US Politics Live Event,https://mg.345564.xyz/proxy.php?url=https://www.bloomberg.com/media-manifest/streams/politics.m3u8
+CBS 11 Houston TX (KHOU) (1080p),https://mg.345564.xyz/proxy.php?url=https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
+CBS 9 Washington DC (WUSA) (1080p),https://mg.345564.xyz/proxy.php?url=https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+CBS News,https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
+CCTV1港澳版,https://mg.345564.xyz/proxy.php?url=https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+Caillou (FR),https://mg.345564.xyz/proxy.php?url=https://dhx-caillou-2-fr.xiaomi.wurl.tv/playlist.m3u8
+Cartoon Network 动漫,https://mg.345564.xyz/proxy.php?url=https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+Channel News Asia,https://mg.345564.xyz/proxy.php?url=http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+China Central Television Channel 1 (CCTV-1),https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a008
+Clarity 4K,https://mg.345564.xyz/proxy.php?url=https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+Clix (EU),https://mg.345564.xyz/proxy.php?url=https://clix-clix-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Clubbing TV,https://mg.345564.xyz/proxy.php?url=https://clubbingtv-xiaomi.amagi.tv/playlist.m3u8
+ComedyDynamics,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
+DW English,https://mg.345564.xyz/proxy.php?url=https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+Drone TV (EU),https://mg.345564.xyz/proxy.php?url=https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+ESPN,https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/ESPN/index.m3u8
+ESTV,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-xiaomi/playlist.m3u8
+Edge Sports,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-xiaomi/playlist.m3u8
+Eurosport,https://mg.345564.xyz/proxy.php?url=http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+FOX East (WFXT) (720p),https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/FOX_EAST/index.m3u8
+Fashion TV,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
+Fashion TV,https://mg.345564.xyz/proxy.php?url=http://91.247.68.229:8000/play/Fashion/index.m3u8
+Fashion TV UHD,https://mg.345564.xyz/proxy.php?url=https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Fireplace 4K,https://mg.345564.xyz/proxy.php?url=https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8
+Fite TV (EU),https://mg.345564.xyz/proxy.php?url=https://answermedia-fite-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Fox 61 News Hartford CT (WTIC-TV),https://mg.345564.xyz/proxy.php?url=https://livevideo.tegnadigital.com/wtic/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTIC/elvs/live.m3u8
+Fuel TV (ES),https://mg.345564.xyz/proxy.php?url=https://fueltv-fueltv-21-es.xiaomi.wurl.tv/playlist.m3u8
+Global News,https://mg.345564.xyz/proxy.php?url=https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+Globi (EU),https://mg.345564.xyz/proxy.php?url=https://globi-globi-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Gravitas Movies (EU),https://mg.345564.xyz/proxy.php?url=https://gravitas-movies-eu.xiaomi.wurl.tv/playlist.m3u8
+InTrouble,https://mg.345564.xyz/proxy.php?url=https://samsunguk-introubleuk-f8zvl.amagi.tv/playlist/samsunguk-introubleuk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+Insight TV,https://mg.345564.xyz/proxy.php?url=https://samsunguk-insight-insighttv-uk-5s34n.amagi.tv/playlist/samsunguk-insight-insighttv-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+Insight TV,https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+Insight TV,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8
+Inwonder,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8
+Iran International,https://mg.345564.xyz/proxy.php?url=https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+J2,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00c
+KFMB CBS 8,https://mg.345564.xyz/proxy.php?url=https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
+LOUPE 4K,https://mg.345564.xyz/proxy.php?url=http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Level Up (EU),https://mg.345564.xyz/proxy.php?url=https://answermedia-leveluptv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Love Nature 4K,https://mg.345564.xyz/proxy.php?url=https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love Nature 4K,https://mg.345564.xyz/proxy.php?url=https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+MBC,https://mg.345564.xyz/proxy.php?url=http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MOVIE BOX,https://mg.345564.xyz/proxy.php?url=https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+MYZEN,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
+MoreU (EU),https://mg.345564.xyz/proxy.php?url=https://bec-moreu-1-eu.xiaomi.wurl.tv/playlist.m3u8
+MovieDome,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8
+Mtrspt1 1 (EU),https://mg.345564.xyz/proxy.php?url=https://kravemedia-mtrspt1-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Mytime (DE),https://mg.345564.xyz/proxy.php?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimede-xiaomi/playlist.m3u8
+Mytime (ES),https://mg.345564.xyz/proxy.php?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+NASA Public Channel,https://mg.345564.xyz/proxy.php?url=https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA TV UHD,https://mg.345564.xyz/proxy.php?url=https://endpnt.com/hls/nasa4k60/playlist.m3u8
+NBA TV,https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/NBATV/index.m3u8
+NBC Sports Bay Area Plus US,https://mg.345564.xyz/proxy.php?url=https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+NBC Sports California,https://mg.345564.xyz/proxy.php?url=https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+NBC Sports Chicago Plus(Fox 32),https://mg.345564.xyz/proxy.php?url=https://lnc-wfld.tubi.video/index.m3u8
+NEW KPOP (EU),https://mg.345564.xyz/proxy.php?url=https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Newsmax,https://mg.345564.xyz/proxy.php?url=http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+NickToons (720p),https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/NICKTOONS/index.m3u8
+Nickelodeon,https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/NICKELODEON/index.m3u8
+Ohio: Wheeling - Steubenville,https://mg.345564.xyz/proxy.php?url=https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
+PHOENIX HK CHANNEL,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00m
+PopC,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+PowerNation (EU),https://mg.345564.xyz/proxy.php?url=https://rtmtv-samsung-eu.xiaomi.wurl.tv/playlist.m3u8
+Qyou India,https://mg.345564.xyz/proxy.php?url=https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01687-qyouindia-qyoutvxiaomi-ono/playlist.m3u8
+RT,https://mg.345564.xyz/proxy.php?url=https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+RT [ESP],https://mg.345564.xyz/proxy.php?url=https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+RTHK TV 31,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a006
+RTHK32,https://mg.345564.xyz/proxy.php?url=https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+Rakuten Viki (EU),https://mg.345564.xyz/proxy.php?url=https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+Real Nosey (EU),https://mg.345564.xyz/proxy.php?url=https://nosey-realnosey-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Red Bull TV,https://mg.345564.xyz/proxy.php?url=https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+Rotana Cinema (EU),https://mg.345564.xyz/proxy.php?url=https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Rotana Classic (EU),https://mg.345564.xyz/proxy.php?url=https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Rotana Comedy (EU),https://mg.345564.xyz/proxy.php?url=https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Sofy TV Spain,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvspa-xiaomi/playlist.m3u8
+Super Simple Songs (EU),https://mg.345564.xyz/proxy.php?url=https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+TVB Finance Sports & Information Channel,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00e
+TVB Plus,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00k
+TVBS新聞,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://mg.345564.xyz/proxy.php?url=http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
+TVBS新聞,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
+TVB娱乐新闻台,https://mg.345564.xyz/proxy.php?url=http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w1003.m3u8
+TVB星河频道,https://mg.345564.xyz/proxy.php?url=http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w1006.m3u8
+Tastemade,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tm-freetv16-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+Tastemade,https://mg.345564.xyz/proxy.php?url=https://amg00047-tastemade-tmintlenglish-samsunguk-pu56a.amagi.tv/playlist/amg00047-tastemade-tmintlenglish-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+Tastemade other,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes16intl-xiaomi/playlist.m3u8
+Tayo,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
+The Wall Street Journal Live,https://mg.345564.xyz/proxy.php?url=https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+Trace Latina,https://mg.345564.xyz/proxy.php?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+Trace Sports Stars,https://mg.345564.xyz/proxy.php?url=https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+Trace Urban,https://mg.345564.xyz/proxy.php?url=https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+Turner Classic Movies (TCM) East (720p),https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/TCM/index.m3u8
+Unbeaten,https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/QjDVfzVNRba77CS-LcVTmg/master.m3u8
+Unbeaten,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
+ViuTVsix,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00h
+Wannasee,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-xiaomi/playlist.m3u8
+Watch Mojo (EU),https://mg.345564.xyz/proxy.php?url=https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
+World Poker Tour,https://mg.345564.xyz/proxy.php?url=https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+World Poker Tour (EU),https://mg.345564.xyz/proxy.php?url=https://world-poker-tour-samsung-eu.xiaomi.wurl.tv/playlist.m3u8
+Zoomoo 少儿,https://mg.345564.xyz/proxy.php?url=https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+tvN,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
+中天新闻台,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=HFib76ySpbU
+凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+广东体育,https://mg.345564.xyz/proxy.php?url=https://cdn2.163189.xyz/live/gdty/stream.m3u8
+澳视卫星,https://mg.345564.xyz/proxy.php?url=https://cdn.163189.xyz/live/as/stream.m3u8
+無線新聞台,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+翡翠台,https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台北美版(TVB J1),https://mg.345564.xyz/proxy.php?url=https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+香港RTHK33,https://mg.345564.xyz/proxy.php?url=https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+香港RTHK35,https://mg.345564.xyz/proxy.php?url=https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+鳳凰資訊,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
+
+🎬电影频道,#genre#
+
+🏀体育频道,#genre#
+广东体育,https://mg.345564.xyz/proxy.php?url=https://cdn2.163189.xyz/live/gdty/stream.m3u8
+
+🪁动画频道,#genre#
+
+🎮游戏频道,#genre#
+
+🎵音乐频道,#genre#
+
+💝电影电视剧频道,#genre#
+河北影视,http://event.pull.hebtv.com/jishi/yingshijupindao.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+
+🏛经典剧场,#genre#
+笑傲江湖,http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c53_lb_66_600_t10/hFoXfOtz8MBwUY741trArb4J6PsPW0LK1liscXEOwoKxhjguVEokVYp_Zc6s0nWbul0tFCgdPtieWgQKfa2f7BmWrzSGgTeDt0ZjdiXL4nNHKmcfy_I7k6ZeKF8aUI7VBKIpO8Sozf4hCWiDnnOw5alAqeFKTAJNGd8d71tww4KtDk_AUWyUWIj7FtVx8kRU2SPgM8ArtgYxPOj2oHuPApSMiaszJCK5SBD6KBhiOQ3wFCf6_SoShTMDxiTp0CzXGNqk_xrKC8ESMLNQ7Kg/1dca8aaf1a2821177f37b7cafeae04b00/c53_lb_66_600_t10.m3u8?key=0d316ff9e8569395e30d65ef9835b4d15&dis_t=1669616005&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+
+🕘️更新时间,#genre#
+2025-05-21 22:47:29,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
