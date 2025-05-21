@@ -112,8 +112,6 @@ https://mg.345564.xyz/proxy.php?url=http://dmitwlvvll.cdn.mangomolo.com/dubaispo
 #EXTINF:-1 tvg-name="FOX East (WFXT) (720p)" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/FOX East (WFXT) (720p).png" group-title="🌊港·澳·台·外全",FOX East (WFXT) (720p)
 https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV.png" group-title="🌊港·澳·台·外全",Fashion TV
-https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV.png" group-title="🌊港·澳·台·外全",Fashion TV
 https://mg.345564.xyz/proxy.php?url=http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-name="Fashion TV UHD" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV UHD.png" group-title="🌊港·澳·台·外全",Fashion TV UHD
 https://mg.345564.xyz/proxy.php?url=https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -133,8 +131,6 @@ https://mg.345564.xyz/proxy.php?url=https://globi-globi-1-eu.xiaomi.wurl.tv/play
 https://mg.345564.xyz/proxy.php?url=https://gravitas-movies-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="InTrouble" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/InTrouble.png" group-title="🌊港·澳·台·外全",InTrouble
 https://mg.345564.xyz/proxy.php?url=https://samsunguk-introubleuk-f8zvl.amagi.tv/playlist/samsunguk-introubleuk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-name="Insight TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Insight TV.png" group-title="🌊港·澳·台·外全",Insight TV
-https://mg.345564.xyz/proxy.php?url=https://samsunguk-insight-insighttv-uk-5s34n.amagi.tv/playlist/samsunguk-insight-insighttv-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-name="Insight TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Insight TV.png" group-title="🌊港·澳·台·外全",Insight TV
 https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 tvg-name="Insight TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Insight TV.png" group-title="🌊港·澳·台·外全",Insight TV
@@ -303,5 +299,5 @@ https://mg.345564.xyz/proxy.php?url=https://cdn2.163189.xyz/live/gdty/stream.m3u
 http://event.pull.hebtv.com/jishi/yingshijupindao.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c53_lb_66_600_t10/hFoXfOtz8MBwUY741trArb4J6PsPW0LK1liscXEOwoKxhjguVEokVYp_Zc6s0nWbul0tFCgdPtieWgQKfa2f7BmWrzSGgTeDt0ZjdiXL4nNHKmcfy_I7k6ZeKF8aUI7VBKIpO8Sozf4hCWiDnnOw5alAqeFKTAJNGd8d71tww4KtDk_AUWyUWIj7FtVx8kRU2SPgM8ArtgYxPOj2oHuPApSMiaszJCK5SBD6KBhiOQ3wFCf6_SoShTMDxiTp0CzXGNqk_xrKC8ESMLNQ7Kg/1dca8aaf1a2821177f37b7cafeae04b00/c53_lb_66_600_t10.m3u8?key=0d316ff9e8569395e30d65ef9835b4d15&dis_t=1669616005&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/# 测试用频道列表.png" group-title="🕘️更新时间",2025-05-21 22:47:29
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/# 测试用频道列表.png" group-title="🕘️更新时间",2025-05-22 07:54:46
 https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
