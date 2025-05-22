@@ -1,22 +1,16 @@
 #EXTM3U x-tvg-url="https://ghproxy.cfd/https://raw.githubusercontent.com/my-tv1/gangaotai/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国交通.png" group-title="💰央视付费频道",中国交通
-http://139.129.231.228/rtp/239.21.1.115:5002$山东电信组播源-cache:139.129.231.228
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
-http://139.129.231.228/rtp/239.21.2.14:5002$山东电信组播源-cache:139.129.231.228
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
-http://139.196.214.238/rtp/239.45.1.82:5140$上海电信组播源-cache:139.196.214.238
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
-http://139.129.231.228/rtp/239.21.2.9:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国天气.png" group-title="💰央视付费频道",中国天气
+http://139.196.214.238/rtp/239.45.1.47:5140$上海电信组播源-cache:139.196.214.238
 #EXTINF:-1 tvg-name="绍兴公共" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴公共.png" group-title="☘️浙江频道",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
 http://139.196.151.191/rtp/239.45.3.61:5140$上海电信组播源-cache:139.196.151.191
-#EXTINF:-1 tvg-name="上视外语" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/上视外语.png" group-title="☘️上海频道",上视外语
-http://139.196.214.238/rtp/239.45.1.127:5140$上海电信组播源-cache:139.196.214.238
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="☘️上海频道",动漫秀场
-http://139.196.151.191/rtp/239.45.3.134:5140$上海电信组播源-cache:139.196.151.191
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="☘️上海频道",第一财经
-http://139.196.214.238/rtp/239.45.3.211:5140$上海电信组播源-cache:139.196.214.238
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/全纪实.png" group-title="☘️上海频道",全纪实
+http://139.196.151.191/rtp/239.45.3.135:5140$上海电信组播源-cache:139.196.151.191
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
+http://139.196.151.191/rtp/239.45.1.55:5140$上海电信组播源-cache:139.196.151.191
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="☘️上海频道",生活时尚
+http://139.196.214.238/rtp/239.45.3.132:5140$上海电信组播源-cache:139.196.214.238
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="☘️上海频道",纪实人文
 http://139.196.214.238/rtp/239.45.3.212:5140$上海电信组播源-cache:139.196.214.238
 #EXTINF:-1 tvg-name="大连综合" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/大连综合.png" group-title="☘️辽宁频道",大连综合
@@ -27,17 +21,21 @@ rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
 rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?p?zliaond
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 http://139.129.231.228/rtp/239.21.1.170:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="☘️四川频道",康巴卫视
+http://139.196.214.238/rtp/239.45.1.251:5140$上海电信组播源-cache:139.196.214.238
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="☘️四川频道",康巴卫视
+http://139.196.151.191/rtp/239.45.1.251:5140$上海电信组播源-cache:139.196.151.191
 #EXTINF:-1 tvg-name="清镇新闻综合" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/清镇新闻综合.png" group-title="☘️贵州频道",清镇新闻综合
 http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东农科.png" group-title="☘️山东频道",山东农科
-http://139.129.231.228/rtp/239.21.1.183:5002$山东电信组播源-cache:139.129.231.228
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东生活.png" group-title="☘️山东频道",山东生活
-http://139.129.231.228/rtp/239.21.1.175:5002$山东电信组播源-cache:139.129.231.228
-#EXTINF:-1 tvg-name="济宁教育" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/济宁教育.png" group-title="☘️山东频道",济宁教育
-http://139.129.231.228/rtp/239.21.1.139:5002$山东电信组播源-cache:139.129.231.228
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
-http://139.196.214.238/rtp/239.45.3.210:5140$上海电信组播源-cache:139.196.214.238
-#EXTINF:-1 tvg-name="海看电竞" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/海看电竞.png" group-title="🎮游戏频道",海看电竞
-http://139.129.231.228/rtp/239.21.1.135:5002$山东电信组播源-cache:139.129.231.228
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/# 测试用频道列表.png" group-title="🕘️更新时间",2025-05-22 16:41:49
-http://139.129.231.228/rtp/239.21.1.115:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="☘️山东频道",山东新闻
+http://139.129.231.228/rtp/239.21.1.140:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="山东居家购物" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东居家购物.png" group-title="☘️山东频道",山东居家购物
+http://139.129.231.228/rtp/239.21.1.112:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
+http://139.129.231.228/rtp/239.21.1.134:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="济南生活" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南生活.png" group-title="☘️山东频道",济南生活
+http://139.129.231.228/rtp/239.21.1.64:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="淄博都市" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/淄博都市.png" group-title="☘️山东频道",淄博都市
+http://139.129.231.228/rtp/239.21.1.83:5002$山东电信组播源-cache:139.129.231.228
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/# 测试用频道列表.png" group-title="🕘️更新时间",2025-05-23 07:46:26
+http://139.196.214.238/rtp/239.45.1.47:5140$上海电信组播源-cache:139.196.214.238
