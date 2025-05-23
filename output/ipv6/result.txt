@@ -73,6 +73,7 @@
 
 🌊港·澳·台,#genre#
 翡翠台,https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=HFib76ySpbU
 凤凰资讯,https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 J2,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00c
@@ -114,6 +115,8 @@ Edge Sports,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.
 Eurosport,https://mg.345564.xyz/proxy.php?url=http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 FOX East (WFXT) (720p),https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/FOX_EAST/index.m3u8
 Fashion TV,https://mg.345564.xyz/proxy.php?url=http://91.247.68.229:8000/play/Fashion/index.m3u8
+Fashion TV,https://mg.345564.xyz/proxy.php?url=https://74561d5f51654ed0acab43a090aafb81.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_FashionTV/playlist.m3u8?ads.wurl_channel=381&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+Fashion TV,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 Fashion TV UHD,https://mg.345564.xyz/proxy.php?url=https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Fireplace 4K,https://mg.345564.xyz/proxy.php?url=https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8
 Fite TV (EU),https://mg.345564.xyz/proxy.php?url=https://answermedia-fite-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -125,6 +128,7 @@ Gravitas Movies (EU),https://mg.345564.xyz/proxy.php?url=https://gravitas-movies
 InTrouble,https://mg.345564.xyz/proxy.php?url=https://samsunguk-introubleuk-f8zvl.amagi.tv/playlist/samsunguk-introubleuk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 Insight TV,https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 Insight TV,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8
+Insight TV,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 Inwonder,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8
 Iran International,https://mg.345564.xyz/proxy.php?url=https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 J2,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00c
@@ -149,6 +153,7 @@ NBC Sports California,https://mg.345564.xyz/proxy.php?url=https://59e8e1c60a2b2.
 NBC Sports Chicago Plus(Fox 32),https://mg.345564.xyz/proxy.php?url=https://lnc-wfld.tubi.video/index.m3u8
 NEW KPOP (EU),https://mg.345564.xyz/proxy.php?url=https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Newsmax,https://mg.345564.xyz/proxy.php?url=http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+Newsmax,https://mg.345564.xyz/proxy.php?url=https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 NickToons (720p),https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/NICKTOONS/index.m3u8
 Nickelodeon,https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/NICKELODEON/index.m3u8
 Ohio: Wheeling - Steubenville,https://mg.345564.xyz/proxy.php?url=https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
@@ -186,10 +191,12 @@ Trace Urban,https://mg.345564.xyz/proxy.php?url=https://amg01131-tracetv-traceur
 Turner Classic Movies (TCM) East (720p),https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/TCM/index.m3u8
 Unbeaten,https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/QjDVfzVNRba77CS-LcVTmg/master.m3u8
 Unbeaten,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
+Unbeaten,https://mg.345564.xyz/proxy.php?url=https://inverleig-unbeaten-samsunguk-7xv9f.amagi.tv/playlist/inverleig-unbeaten-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 ViuTVsix,https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00h
 Wannasee,https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-xiaomi/playlist.m3u8
 Watch Mojo (EU),https://mg.345564.xyz/proxy.php?url=https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 World Poker Tour,https://mg.345564.xyz/proxy.php?url=https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+World Poker Tour,https://mg.345564.xyz/proxy.php?url=https://a715bb95172a428d8e61e9fe68822ab6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 World Poker Tour (EU),https://mg.345564.xyz/proxy.php?url=https://world-poker-tour-samsung-eu.xiaomi.wurl.tv/playlist.m3u8
 Zoomoo 少儿,https://mg.345564.xyz/proxy.php?url=https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 tvN,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
@@ -200,6 +207,7 @@ tvN,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv
 澳视卫星,https://mg.345564.xyz/proxy.php?url=https://cdn.163189.xyz/live/as/stream.m3u8
 無線新聞台,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 翡翠台,https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 翡翠台北美版(TVB J1),https://mg.345564.xyz/proxy.php?url=https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 香港RTHK33,https://mg.345564.xyz/proxy.php?url=https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 香港RTHK35,https://mg.345564.xyz/proxy.php?url=https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
@@ -223,4 +231,4 @@ tvN,https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv
 笑傲江湖,http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c53_lb_66_600_t10/hFoXfOtz8MBwUY741trArb4J6PsPW0LK1liscXEOwoKxhjguVEokVYp_Zc6s0nWbul0tFCgdPtieWgQKfa2f7BmWrzSGgTeDt0ZjdiXL4nNHKmcfy_I7k6ZeKF8aUI7VBKIpO8Sozf4hCWiDnnOw5alAqeFKTAJNGd8d71tww4KtDk_AUWyUWIj7FtVx8kRU2SPgM8ArtgYxPOj2oHuPApSMiaszJCK5SBD6KBhiOQ3wFCf6_SoShTMDxiTp0CzXGNqk_xrKC8ESMLNQ7Kg/1dca8aaf1a2821177f37b7cafeae04b00/c53_lb_66_600_t10.m3u8?key=0d316ff9e8569395e30d65ef9835b4d15&dis_t=1669616005&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 
 🕘️更新时间,#genre#
-2025-05-23 07:46:26,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
+2025-05-23 16:42:19,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt

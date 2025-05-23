@@ -35,6 +35,8 @@ http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8$山东酒店源-cache:
 http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
+https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 https://mg.345564.xyz/proxy.php?url=https://www.youtube.com/watch?v=HFib76ySpbU
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
@@ -113,6 +115,10 @@ https://mg.345564.xyz/proxy.php?url=http://dmitwlvvll.cdn.mangomolo.com/dubaispo
 https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV.png" group-title="🌊港·澳·台·外全",Fashion TV
 https://mg.345564.xyz/proxy.php?url=http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV.png" group-title="🌊港·澳·台·外全",Fashion TV
+https://mg.345564.xyz/proxy.php?url=https://74561d5f51654ed0acab43a090aafb81.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_FashionTV/playlist.m3u8?ads.wurl_channel=381&ads.wurl_name=FashionTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV.png" group-title="🌊港·澳·台·外全",Fashion TV
+https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Fashion TV UHD" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fashion TV UHD.png" group-title="🌊港·澳·台·外全",Fashion TV UHD
 https://mg.345564.xyz/proxy.php?url=https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Fireplace 4K" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fireplace 4K.png" group-title="🌊港·澳·台·外全",Fireplace 4K
@@ -135,6 +141,8 @@ https://mg.345564.xyz/proxy.php?url=https://samsunguk-introubleuk-f8zvl.amagi.tv
 https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 tvg-name="Insight TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Insight TV.png" group-title="🌊港·澳·台·外全",Insight TV
 https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-insighttvrow-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="Insight TV" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Insight TV.png" group-title="🌊港·澳·台·外全",Insight TV
+https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-name="Inwonder" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Inwonder.png" group-title="🌊港·澳·台·外全",Inwonder
 https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Iran International" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Iran International.png" group-title="🌊港·澳·台·外全",Iran International
@@ -183,6 +191,8 @@ https://mg.345564.xyz/proxy.php?url=https://lnc-wfld.tubi.video/index.m3u8
 https://mg.345564.xyz/proxy.php?url=https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Newsmax.png" group-title="🌊港·澳·台·外全",Newsmax
 https://mg.345564.xyz/proxy.php?url=http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Newsmax.png" group-title="🌊港·澳·台·外全",Newsmax
+https://mg.345564.xyz/proxy.php?url=https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="NickToons (720p)" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/NickToons (720p).png" group-title="🌊港·澳·台·外全",NickToons (720p)
 https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nickelodeon.png" group-title="🌊港·澳·台·外全",Nickelodeon
@@ -257,6 +267,8 @@ https://mg.345564.xyz/proxy.php?url=http://143.244.60.30/TCM/index.m3u8
 https://mg.345564.xyz/proxy.php?url=https://dai.google.com/linear/hls/event/QjDVfzVNRba77CS-LcVTmg/master.m3u8
 #EXTINF:-1 tvg-name="Unbeaten" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Unbeaten.png" group-title="🌊港·澳·台·外全",Unbeaten
 https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-name="Unbeaten" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Unbeaten.png" group-title="🌊港·澳·台·外全",Unbeaten
+https://mg.345564.xyz/proxy.php?url=https://inverleig-unbeaten-samsunguk-7xv9f.amagi.tv/playlist/inverleig-unbeaten-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/ViuTVsix.png" group-title="🌊港·澳·台·外全",ViuTVsix
 https://mg.345564.xyz/proxy.php?url=http://43.251.102.18:4000/play/a00h
 #EXTINF:-1 tvg-name="Wannasee" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Wannasee.png" group-title="🌊港·澳·台·外全",Wannasee
@@ -265,6 +277,8 @@ https://mg.345564.xyz/proxy.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/am
 https://mg.345564.xyz/proxy.php?url=https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/World Poker Tour.png" group-title="🌊港·澳·台·外全",World Poker Tour
 https://mg.345564.xyz/proxy.php?url=https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+#EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/World Poker Tour.png" group-title="🌊港·澳·台·外全",World Poker Tour
+https://mg.345564.xyz/proxy.php?url=https://a715bb95172a428d8e61e9fe68822ab6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-name="World Poker Tour (EU)" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/World Poker Tour (EU).png" group-title="🌊港·澳·台·外全",World Poker Tour (EU)
 https://mg.345564.xyz/proxy.php?url=https://world-poker-tour-samsung-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Zoomoo 少儿" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/Zoomoo 少儿.png" group-title="🌊港·澳·台·外全",Zoomoo 少儿
@@ -285,6 +299,8 @@ https://mg.345564.xyz/proxy.php?url=https://cdn.163189.xyz/live/as/stream.m3u8
 https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台·外全",翡翠台
 https://mg.345564.xyz/proxy.php?url=https://cdn3.163189.xyz/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台·外全",翡翠台
+https://mg.345564.xyz/proxy.php?url=http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台北美版(TVB J1)" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台北美版(TVB J1).png" group-title="🌊港·澳·台·外全",翡翠台北美版(TVB J1)
 https://mg.345564.xyz/proxy.php?url=https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 #EXTINF:-1 tvg-name="香港RTHK33" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/香港RTHK33.png" group-title="🌊港·澳·台·外全",香港RTHK33
@@ -299,5 +315,5 @@ https://mg.345564.xyz/proxy.php?url=https://cdn2.163189.xyz/live/gdty/stream.m3u
 http://event.pull.hebtv.com/jishi/yingshijupindao.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/笑傲江湖.png" group-title="🏛经典剧场",笑傲江湖
 http://aliyuncoccdnct-hb.inter.iqiyi.com/tslive/l1/c53_lb_66_600_t10/hFoXfOtz8MBwUY741trArb4J6PsPW0LK1liscXEOwoKxhjguVEokVYp_Zc6s0nWbul0tFCgdPtieWgQKfa2f7BmWrzSGgTeDt0ZjdiXL4nNHKmcfy_I7k6ZeKF8aUI7VBKIpO8Sozf4hCWiDnnOw5alAqeFKTAJNGd8d71tww4KtDk_AUWyUWIj7FtVx8kRU2SPgM8ArtgYxPOj2oHuPApSMiaszJCK5SBD6KBhiOQ3wFCf6_SoShTMDxiTp0CzXGNqk_xrKC8ESMLNQ7Kg/1dca8aaf1a2821177f37b7cafeae04b00/c53_lb_66_600_t10.m3u8?key=0d316ff9e8569395e30d65ef9835b4d15&dis_t=1669616005&random=1&z=live_alicdn_coc_cn_north_ct&pv=0.2$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/# 测试用频道列表.png" group-title="🕘️更新时间",2025-05-23 07:46:26
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="https://ghproxy.cfd/https://raw.githubusercontent.com/fanmingming/live/main/tv/# 测试用频道列表.png" group-title="🕘️更新时间",2025-05-23 16:42:19
 https://hls.gstv.com.cn/49048r/6e1sy2.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt
